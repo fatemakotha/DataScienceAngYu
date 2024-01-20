@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1. Preliminary Data Exploration/.idea/1. Preliminary Data Exploration.iml" filepath="$PROJECT_DIR$/1. Preliminary Data Exploration/.idea/1. Preliminary Data Exploration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Data Exploration with Pandas/.idea/1. Preliminary Data Exploration.iml" filepath="$PROJECT_DIR$/1. Data Exploration with Pandas/.idea/1. Preliminary Data Exploration.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DataScienceAngYu.iml" filepath="$PROJECT_DIR$/.idea/DataScienceAngYu.iml" />
     </modules>
   </component>
